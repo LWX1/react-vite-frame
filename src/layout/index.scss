@@ -1,0 +1,16 @@
+.home {
+    height: 100%;
+    .layout-sider {
+        color: $colorWhite
+    }
+    .layout-header {
+        color: $colorWhite;
+        .header-left {
+            margin-left: -14px;
+        }
+    }
+    .layout-content {
+        padding: 20px;
+        overflow: auto;
+    }
+}
